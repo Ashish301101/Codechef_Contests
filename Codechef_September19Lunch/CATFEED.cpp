@@ -1,6 +1,5 @@
     #include <iostream>
-#include<algorithm>
-
+//https://www.codechef.com/LTIME76B/problems/CATFEED is the question link.
     using namespace std;
 
 
